@@ -1,0 +1,31 @@
+English= {3}
+Spaniard= {4}
+Ukrainian= {2}
+Norwegian= {1}
+Japanese= {5}
+
+Yellow= {1}
+Blue= {2}
+Red= {3}
+Ivory= {4}
+Green= {5}
+
+Fox= {1}
+Horse= {2}
+Snails= {3}
+Dog= {4}
+Zebra= {5}
+
+Snakes and Ladders= {3}
+Cluedo= {1}
+Pictionary= {2}
+Travel the World= {4}
+Backgammon= {5}
+
+Coffee= {5}
+Water= {1}
+Tea= {2}
+Milk= {3}
+Orange Juice= {4}
+
+Solutions Found: 1
